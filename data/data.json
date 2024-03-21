@@ -1,0 +1,179 @@
+{
+  "discs": [
+    {
+      "name": "Aviar",
+      "manufacturer": "Innova",
+      "type": "Putter",
+      "difficulty": "Beginner",
+      "id": "1"
+    },
+    {
+      "name": "Destroyer",
+      "manufacturer": "Innova",
+      "type": "Distance driver",
+      "difficulty": "Advanced",
+      "id": "2"
+    },
+    {
+      "name": "Buzzz",
+      "manufacturer": "Discraft",
+      "type": "Midrange",
+      "difficulty": "Intermediate",
+      "id": "3"
+    },
+    {
+      "name": "Leopard",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "4"
+    },
+    {
+      "name": "Roc",
+      "manufacturer": "Innova",
+      "type": "Midrange",
+      "difficulty": "Intermediate",
+      "id": "5"
+    },
+    {
+      "name": "Teebird",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "6"
+    },
+    {
+      "name": "Valkyrie",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "7"
+    },
+    {
+      "name": "Wraith",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Advanced",
+      "id": "8"
+    },
+    {
+      "name": "Envy",
+      "manufacturer": "Axiom",
+      "type": "Putter",
+      "difficulty": "Intermediate",
+      "id": "9"
+    },
+    {
+      "name": "Mako3",
+      "manufacturer": "Innova",
+      "type": "Midrange",
+      "difficulty": "Beginner",
+      "id": "10"
+    },
+    {
+      "name": "P2",
+      "manufacturer": "Discmania",
+      "type": "Putter",
+      "difficulty": "Intermediate",
+      "id": "11"
+    },
+    {
+      "name": "Thunderbird",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "12"
+    },
+    {
+      "name": "Firebird",
+      "manufacturer": "Innova",
+      "type": "Driver",
+      "difficulty": "Advanced",
+      "id": "13"
+    },
+    {
+      "name": "Zone",
+      "manufacturer": "Discraft",
+      "type": "Putter",
+      "difficulty": "Advanced",
+      "id": "14"
+    },
+    {
+      "name": "Roc3",
+      "manufacturer": "Innova",
+      "type": "Midrange",
+      "difficulty": "Advanced",
+      "id": "15"
+    },
+    {
+      "name": "AvengerSS",
+      "manufacturer": "Discraft",
+      "type": "Driver",
+      "difficulty": "Beginner",
+      "id": "16"
+    },
+    {
+      "name": "Aviator",
+      "manufacturer": "Latitude 64",
+      "type": "Distance driver",
+      "difficulty": "Beginner",
+      "id": "17"
+    },
+    {
+      "name": "Fury",
+      "manufacturer": "Latitude 64",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "18"
+    },
+    {
+      "name": "Judge",
+      "manufacturer": "Dynamic Discs",
+      "type": "Putter",
+      "difficulty": "Intermediate",
+      "id": "19"
+    },
+    {
+      "name": "Escape",
+      "manufacturer": "Dynamic Discs",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "21"
+    },
+    {
+      "name": "Saint",
+      "manufacturer": "Latitude 64",
+      "type": "Driver",
+      "difficulty": "Intermediate",
+      "id": "22"
+    },
+    {
+      "name": "River",
+      "manufacturer": "Latitude 64",
+      "type": "Driver",
+      "difficulty": "Beginner",
+      "id": "23"
+    },
+    {
+      "name": "Sheriff",
+      "manufacturer": "Dynamic Discs",
+      "type": "Driver",
+      "difficulty": "Advanced",
+      "id": "24"
+    },
+    {
+      "name": "Truth",
+      "manufacturer": "Dynamic Discs",
+      "type": "Midrange",
+      "difficulty": "Intermediate",
+      "id": "25"
+    },
+    {
+      "name": "Warship",
+      "manufacturer": "Westside Discs",
+      "type": "Midrange",
+      "difficulty": "Advanced",
+      "id": "26"
+    }
+  ]
+}
